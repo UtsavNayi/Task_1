@@ -1,0 +1,21 @@
+Date,MOP,Details,Credit,Debit,Balance
+"",,Opening balance,,,"22,24,355.00cr"
+05/01/2022,Fast Payment,Amazon Sh.,,132.30,"8,181.00cr"
+05/01/2022,Paytm UPI,e-BAY Trading Co.,,512.22,"7,665.78cr"
+03/01/2022,Paytm UPI,HP Petrol Pump,,80.00,"7,585.78cr"
+01/01/2022,Deposit,CASH,"20,000.00","3,333.00","27,585.78Cr"
+01/01/2022,G-Pay UPI,Jaydeep Medical Store,,"2,416.85","27,585.78Cr"
+28/12/2021,withdraw,ATM,,100.00,"27,585.78Cr"
+28/12/2021,Paytm UPI,Sangita Mobile Shop,,150.00,"24,918.93Cr"
+28/12/2021,Paytm UPI,Marriott Hotels,,177.00,"24,741.93Cr"
+22/12/2021,Fast Payment,Concept PVT. LTD,,177.00,"24,619.71Cr"
+21/12/2021,Fast Payment,Cheque 000234,,"1,200.00","23,419.71Cr"
+01/12/2021,Int. Bank,Interest Paid,9.33,,"23,419.71Cr"
+27/11/2021,Bank Transfer,JSW Energy LTD.,,270.00,"23,159.04Cr"
+25/11/2021,G-Pay UPI,Flipkart Sh.,,"10,525.40","12,633.64Cr"
+25/11/2021,Paytm UPI,Burger King,,"1,000.00","12,633.64Cr"
+20/11/2021,Paytm UPI,UBER,,280.00,"12,633.64Cr"
+12/11/2021,Phone pay,Joy Patel Salary,,"1,554.00","12,633.64Cr"
+05/11/2021,Net banking,IOB Mastercard,,"4,000.00","12,633.64Cr"
+"",,CUMULATIVE TOTAL,"20,009.33","25,907.77",
+"",,CLOSING BALANCE,,,5799.64Cr
